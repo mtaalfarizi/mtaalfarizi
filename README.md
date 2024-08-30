@@ -2,14 +2,14 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=mtaalfarizi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="215" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtaalfarizi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h1 align="center">Languages</h1>
+<h1 align="left">Languages</h1>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h1 align="center">Social Media</h1>
+<h1 align="left">Social Media</h1>
 
 ###
 
